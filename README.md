@@ -1,2 +1,2 @@
 # HUArepo
-my first repo in git.
+my first repo in git. edited
